@@ -1,5 +1,5 @@
 [https://coveralls.io/github/neewait/lab05?branch=master](https://coveralls.io/github/AlbertTonoyan2004/lab05)
-[![Coverage Status)
+[https://coveralls.io/github/AlbertTonoyan2004/lab05![Coverage Status)
 
 
 ```sh
